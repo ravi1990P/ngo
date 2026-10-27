@@ -1,0 +1,6 @@
+{
+  "name": "Mahatma Gandhi Agriculture and Rural Welfare Society",
+  "description": "Empowering rural lives, nutrition, education, animal welfare, and emergency relief since 1989. Registered NGO committed to sustainable grassroots development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
